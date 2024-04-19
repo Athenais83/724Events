@@ -1,8 +1,11 @@
 /* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 /* eslint-disable jsx-a11y/click-events-have-key-events */
+// eslint-disable-next-line import/no-unresolved
 import { useState } from "react";
+// eslint-disable-next-line import/no-unresolved
 import PropTypes from "prop-types";
 
+// eslint-disable-next-line import/no-unresolved
 import "./style.scss";
 
 const Select = ({

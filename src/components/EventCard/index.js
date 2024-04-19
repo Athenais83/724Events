@@ -1,6 +1,9 @@
+// eslint-disable-next-line import/no-unresolved
 import PropTypes from "prop-types";
+// eslint-disable-next-line import/no-unresolved
 import { getMonth } from "../../helpers/Date";
 
+// eslint-disable-next-line import/no-unresolved
 import "./style.scss";
 
 const EventCard = ({

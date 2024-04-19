@@ -1,4 +1,6 @@
+// eslint-disable-next-line import/no-unresolved
 import { render, screen } from "@testing-library/react";
+// eslint-disable-next-line import/no-unresolved
 import EventCard from "./index";
 
 describe("When a event card is created", () => {
